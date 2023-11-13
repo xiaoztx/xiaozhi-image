@@ -1,0 +1,23 @@
+{
+  "name": "xiaozhi-image",
+  "version": "1.0.0",
+  "description": "xiaozhi image file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoztx/xiaozhi-image.git"
+  },
+  "keywords": [
+    "image",
+    "file"
+  ],
+  "author": "xiaozhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoztx/xiaozhi-image/issues"
+  },
+  "homepage": "https://github.com/xiaoztx/xiaozhi-image#readme"
+}
