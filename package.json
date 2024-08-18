@@ -1,6 +1,6 @@
 {
   "name": "xiaozhi-image",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "xiaozhi image file",
   "main": "index.js",
   "scripts": {
